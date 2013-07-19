@@ -2,6 +2,7 @@ logback-sample
 ==============
 
 Repositorio para exemplos de features do logback.
+-------------------------------------------------
 
 Para ver o exemplo funcionando:
 
